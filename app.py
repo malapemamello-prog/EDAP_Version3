@@ -8,7 +8,7 @@ df = pd.read_csv(uploaded) if uploaded is None else pd.read_csv("survey.csv")
 
 st.caption(f"{len(df)} responses loaded")
 tab1, tab2, tab3 = st.tabs(["Overview", "Compare", "Data"])
-numeric_ok = df["satisfaction"].isnumeric()
+numeric_ok = pd.api.types.is_numeric_dtype(df["satisfaction"])
 if not numeric_ok: st.error("satisfaction must be a number column."); st.stop()
 a, b = st.columns(2); a.metric("Responses", len(df)); b.metric("Average satisfaction", f"{df['satisfaction'].mean():.2f}")
 st.bar_chart(df.value_counts("satisfaction").sort_values())
