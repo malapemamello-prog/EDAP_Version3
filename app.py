@@ -1,7 +1,7 @@
 import plotly.express as px
 import streamlit as st
 import pandas as pd
-import matplotlib.ployplt pt
+
 st.set_page_config(page_title="Survey Explorer", layout="wide")
 st.title("Student Survey Explorer")
 uploaded = st.sidebar.file_uploader("Survey CSV (optional)", type=["csv"])
