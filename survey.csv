@@ -1,0 +1,301 @@
+respondent,faculty,year_of_study,study_hours,satisfaction
+1,Education,1,13.4,2
+2,Law,2,14.7,2
+3,Humanities,1,20.3,3
+4,Law,4,25.8,3
+5,,3,10.8,2
+6,Education,1,29.3,3
+7,Humanities,4,15.4,4
+8,Humanities,1,18.6,2
+9,Law,3,2.7,2
+10,Law,2,8.3,2
+11,Humanities,3,19.0,3
+12,Humanities,2,23.6,2
+13,Education,4,10.6,5
+14,Natural Sciences,2,17.8,3
+15,Education,3,7.2,3
+16,Law,3,4.8,2
+17,Humanities,1,19.7,2
+18,,2,17.8,3
+19,Natural Sciences,4,19.0,3
+20,Law,1,5.0,1
+21,Law,1,13.4,3
+22,Humanities,1,19.0,5
+23,Law,1,27.5,4
+24,Economic Sciences,4,7.2,3
+25,Economic Sciences,3,25.3,5
+26,Economic Sciences,1,24.2,2
+27,Education,1,3.8,4
+28,Humanities,3,21.6,2
+29,Economic Sciences,3,27.8,5
+30,Economic Sciences,3,18.2,3
+31,Education,1,14.2,3
+32,Natural Sciences,2,21.2,5
+33,Economic Sciences,3,14.3,4
+34,Education,4,17.2,2
+35,Law,3,22.0,2
+36,Economic Sciences,3,10.9,2
+37,Economic Sciences,4,8.1,3
+38,Law,4,11.7,3
+39,Natural Sciences,2,7.1,3
+40,Law,2,25.9,4
+41,Economic Sciences,3,13.8,4
+42,Law,3,3.1,1
+43,,2,22.2,2
+44,Economic Sciences,3,26.6,3
+45,Natural Sciences,3,23.6,4
+46,Education,3,22.2,2
+47,Natural Sciences,1,11.0,1
+48,Humanities,4,8.4,2
+49,Humanities,1,20.6,4
+50,Education,2,14.3,3
+51,Natural Sciences,1,3.3,2
+52,Law,3,3.8,2
+53,Economic Sciences,3,15.9,1
+54,Humanities,4,18.7,3
+55,Law,1,14.1,5
+56,Humanities,1,27.3,3
+57,Humanities,3,2.7,4
+58,Humanities,4,15.1,2
+59,Economic Sciences,4,6.8,2
+60,Education,2,22.6,3
+61,Law,4,7.1,2
+62,Education,4,9.6,1
+63,Natural Sciences,4,18.1,4
+64,Education,1,24.0,3
+65,Natural Sciences,4,4.1,1
+66,Humanities,4,12.2,3
+67,Humanities,4,20.7,3
+68,Humanities,3,10.4,1
+69,Humanities,4,4.5,2
+70,Law,1,17.9,4
+71,Education,1,15.2,3
+72,Natural Sciences,2,5.8,3
+73,Natural Sciences,3,17.5,2
+74,Natural Sciences,3,16.5,3
+75,Humanities,1,11.7,4
+76,Education,3,18.3,5
+77,Humanities,2,28.7,4
+78,Natural Sciences,2,2.8,3
+79,Economic Sciences,2,24.1,4
+80,Law,4,28.6,3
+81,Natural Sciences,2,27.3,2
+82,Natural Sciences,2,7.6,2
+83,Economic Sciences,2,5.7,2
+84,Natural Sciences,1,25.9,4
+85,Economic Sciences,3,18.1,3
+86,Economic Sciences,4,20.9,2
+87,Economic Sciences,3,14.8,2
+88,Education,4,16.6,3
+89,Law,1,19.2,2
+90,Law,3,17.6,2
+91,Law,3,25.9,2
+92,Natural Sciences,1,18.7,2
+93,Humanities,1,6.5,2
+94,Natural Sciences,2,29.5,3
+95,Law,1,6.3,2
+96,Natural Sciences,3,25.3,3
+97,Law,3,5.4,1
+98,Economic Sciences,1,13.0,2
+99,Law,1,3.4,1
+100,,2,22.9,3
+101,Natural Sciences,3,11.0,1
+102,Humanities,2,13.3,2
+103,Education,1,7.1,1
+104,Economic Sciences,1,15.8,4
+105,Law,4,21.7,3
+106,Natural Sciences,4,18.7,2
+107,Law,3,27.0,3
+108,Law,4,3.5,4
+109,Natural Sciences,3,17.1,3
+110,Economic Sciences,3,8.8,1
+111,Natural Sciences,2,13.5,2
+112,Law,2,16.3,2
+113,Economic Sciences,4,8.7,3
+114,Economic Sciences,4,23.8,3
+115,Law,2,16.5,1
+116,Natural Sciences,4,4.6,2
+117,Natural Sciences,2,8.3,3
+118,Law,2,9.3,4
+119,Law,2,9.4,3
+120,Education,1,21.2,5
+121,Education,1,25.2,5
+122,Natural Sciences,1,23.9,4
+123,Law,1,11.8,4
+124,Law,3,10.2,1
+125,Law,3,15.8,4
+126,Law,1,28.5,5
+127,Education,4,11.5,3
+128,Education,3,28.1,4
+129,Education,3,14.5,2
+130,Natural Sciences,1,27.0,3
+131,Economic Sciences,2,29.2,4
+132,Law,4,6.1,1
+133,Natural Sciences,2,12.4,2
+134,Humanities,4,11.3,1
+135,Natural Sciences,3,21.0,3
+136,Education,4,21.4,5
+137,Law,2,15.0,5
+138,Natural Sciences,4,2.7,2
+139,Natural Sciences,4,5.0,4
+140,Natural Sciences,3,18.3,3
+141,Humanities,2,20.2,2
+142,Economic Sciences,4,21.9,3
+143,Humanities,1,12.1,3
+144,Law,1,2.8,2
+145,Education,4,11.3,3
+146,Economic Sciences,3,10.6,2
+147,Natural Sciences,1,2.4,2
+148,Law,3,10.8,4
+149,Natural Sciences,3,27.3,4
+150,Economic Sciences,3,25.0,4
+151,Economic Sciences,1,4.2,2
+152,Natural Sciences,2,3.9,3
+153,Humanities,3,4.3,3
+154,Economic Sciences,3,19.7,2
+155,Humanities,4,25.5,5
+156,Economic Sciences,1,18.4,3
+157,Natural Sciences,2,5.6,3
+158,Economic Sciences,1,8.7,2
+159,Humanities,3,2.2,3
+160,Law,2,24.8,4
+161,Natural Sciences,2,24.1,4
+162,Law,4,5.2,2
+163,Natural Sciences,1,18.6,3
+164,Humanities,3,8.1,3
+165,Natural Sciences,2,13.6,3
+166,Natural Sciences,2,6.0,2
+167,Humanities,2,15.3,2
+168,Natural Sciences,2,7.1,3
+169,Humanities,2,8.0,4
+170,Humanities,2,10.5,2
+171,Natural Sciences,4,3.9,3
+172,Humanities,4,23.2,3
+173,Law,2,29.5,4
+174,Education,1,20.2,4
+175,Education,2,5.8,3
+176,Law,2,13.4,3
+177,Humanities,2,16.2,1
+178,Education,4,6.9,2
+179,Humanities,4,25.5,3
+180,Natural Sciences,4,9.2,4
+181,Economic Sciences,4,23.9,3
+182,Natural Sciences,1,9.7,2
+183,Law,4,7.0,3
+184,Education,2,24.4,5
+185,Economic Sciences,3,22.2,2
+186,Economic Sciences,1,11.2,3
+187,Law,4,13.6,3
+188,Law,2,23.4,3
+189,Humanities,1,14.2,2
+190,Education,2,16.3,2
+191,Natural Sciences,4,27.7,4
+192,Law,1,11.9,2
+193,Humanities,2,2.2,1
+194,Economic Sciences,4,13.9,2
+195,Economic Sciences,3,17.5,4
+196,Education,1,29.8,5
+197,Natural Sciences,3,29.8,5
+198,Natural Sciences,1,4.9,3
+199,Natural Sciences,3,7.4,3
+200,Humanities,3,23.2,3
+201,Natural Sciences,3,22.2,2
+202,Economic Sciences,3,10.8,4
+203,Education,3,20.3,3
+204,Economic Sciences,3,16.2,3
+205,Economic Sciences,3,11.6,2
+206,Education,1,22.5,4
+207,Natural Sciences,1,22.0,5
+208,Education,2,27.2,3
+209,Natural Sciences,1,24.5,4
+210,Economic Sciences,3,26.1,4
+211,Humanities,4,20.0,4
+212,Economic Sciences,1,7.6,2
+213,Humanities,4,9.6,3
+214,Natural Sciences,2,22.2,3
+215,Law,2,24.3,3
+216,Economic Sciences,3,15.8,2
+217,Law,3,4.1,3
+218,Law,2,16.2,3
+219,Economic Sciences,3,11.7,4
+220,Humanities,3,25.7,3
+221,Education,2,26.1,3
+222,Law,1,18.3,4
+223,Education,4,17.9,4
+224,Natural Sciences,3,28.4,2
+225,Natural Sciences,1,6.9,5
+226,Humanities,4,12.2,3
+227,Law,2,15.2,4
+228,Humanities,1,22.5,3
+229,Natural Sciences,2,29.9,4
+230,Economic Sciences,2,21.0,4
+231,Education,1,25.7,3
+232,Education,2,17.3,3
+233,Humanities,4,20.5,4
+234,Law,1,29.5,5
+235,Natural Sciences,1,18.5,4
+236,Economic Sciences,4,9.7,4
+237,Education,4,2.0,3
+238,Law,2,21.6,4
+239,Humanities,2,14.3,3
+240,Natural Sciences,1,9.7,2
+241,Natural Sciences,2,7.9,1
+242,Education,1,27.2,2
+243,Humanities,3,16.8,3
+244,Humanities,1,19.6,4
+245,Education,4,29.9,4
+246,Natural Sciences,1,2.6,2
+247,Humanities,2,8.3,2
+248,Natural Sciences,2,8.6,1
+249,Law,1,18.4,4
+250,Education,2,6.5,1
+251,Economic Sciences,4,20.8,5
+252,Humanities,3,3.2,2
+253,Law,4,25.0,5
+254,Humanities,3,3.6,3
+255,Humanities,4,8.0,2
+256,Economic Sciences,2,19.3,3
+257,Education,3,8.1,2
+258,Law,1,25.1,5
+259,Humanities,2,14.4,3
+260,Law,2,9.1,3
+261,Humanities,4,28.0,3
+262,Humanities,2,7.0,3
+263,Law,2,27.7,2
+264,Education,2,11.3,2
+265,Education,3,10.5,4
+266,Humanities,2,2.0,1
+267,Economic Sciences,3,27.4,4
+268,Education,4,19.3,4
+269,Economic Sciences,2,15.2,3
+270,Education,1,21.1,5
+271,Economic Sciences,3,11.6,4
+272,Law,4,7.0,3
+273,Law,4,13.3,1
+274,Economic Sciences,2,6.8,2
+275,Economic Sciences,1,14.4,3
+276,Law,3,17.7,4
+277,Law,1,7.7,2
+278,Natural Sciences,4,17.8,3
+279,Humanities,1,10.2,1
+280,Education,2,8.7,2
+281,Humanities,4,29.1,4
+282,Education,4,28.9,1
+283,Law,4,18.0,3
+284,Law,2,14.5,3
+285,Humanities,3,8.8,2
+286,Natural Sciences,3,18.7,3
+287,Economic Sciences,2,21.7,3
+288,Humanities,1,11.2,3
+289,Education,3,21.3,3
+290,Natural Sciences,2,27.6,5
+291,Law,1,14.1,3
+292,Natural Sciences,1,29.8,2
+293,Humanities,1,8.3,2
+294,Law,4,13.7,3
+295,Education,2,15.1,4
+296,Humanities,4,2.6,2
+297,Humanities,1,18.2,3
+298,Economic Sciences,4,23.7,4
+299,Education,4,22.8,5
+300,Law,3,17.5,1
