@@ -15,7 +15,7 @@ st.bar_chart(df.value_counts("satisfaction").sort_values())
 
 group = st.radio("Compare by", ["faculty", "year_of_study"], horizontal=True)
 summary = df.groupby(group)["satisfaction"].mean()
-fig = px.barchart(summary, x=group, y="satisfaction")
+fig = px.bar(summary, x="group", y="satisfaction", title=f"Average satisfaction by {group}")
 fig.show()
 
 st.plotly_chart(px.scatter(df, x="study_hours", y="satisfaction", color=group))
