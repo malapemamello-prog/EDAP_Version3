@@ -1,5 +1,5 @@
 import plotly.express as px
-
+import streamlit as st
 st.set_page_config(page_title="Survey Explorer", layout="wide")
 st.title("Student Survey Explorer")
 uploaded = st.sidebar.file_uploader("Survey CSV (optional)", type=["csv"])
