@@ -1,5 +1,6 @@
 import plotly.express as px
-st.set_page_config(title="Survey Explorer", layout="wide")
+
+st.set_page_config(page_title="Survey Explorer", layout="Wide")
 st.title("Student Survey Explorer")
 uploaded = st.sidebar.file_uploader("Survey CSV (optional)", type=["csv"])
 df = pd.read_csv(uploaded) if uploaded is None else pd.read_csv("survey.csv")
