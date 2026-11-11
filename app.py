@@ -1,6 +1,7 @@
 import plotly.express as px
 import streamlit as st
 import pandas as pd
+import matplotlib.ployplt pt
 st.set_page_config(page_title="Survey Explorer", layout="wide")
 st.title("Student Survey Explorer")
 uploaded = st.sidebar.file_uploader("Survey CSV (optional)", type=["csv"])
@@ -15,7 +16,7 @@ st.bar_chart(df.value_counts("satisfaction").sort_values())
 
 group = st.radio("Compare by", ["faculty", "year_of_study"], horizontal=True)
 summary = df.groupby(group)["satisfaction"].mean()
-fig = px.bar(summary, x=group, y="satisfaction", title=f"Average satisfaction by {group}")
+fig = px.bar(x=group, y="satisfaction", data=summary)
 fig.show()
 
 st.plotly_chart(px.scatter(df, x="study_hours", y="satisfaction", color=group))
